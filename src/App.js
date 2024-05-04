@@ -53,7 +53,7 @@ function App() {
         }
       }
 
-      if (minDistance < 2) {  // Define your own threshold for "similarity"
+      if (minDistance < 2) { 
         setVerificationResult(`Closest match found: ${closestHash} with Hamming distance of ${minDistance}`);
       } else {
         setVerificationResult("No similar hash found.");
