@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Rone/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Rone/static/js/main.0e859025.chunk.js",
+    "main.js.map": "/Rone/static/js/main.0e859025.chunk.js.map",
+    "runtime-main.js": "/Rone/static/js/runtime-main.3d70b5ee.js",
+    "runtime-main.js.map": "/Rone/static/js/runtime-main.3d70b5ee.js.map",
+    "static/css/2.5996d632.chunk.css": "/Rone/static/css/2.5996d632.chunk.css",
+    "static/js/2.de8d19a8.chunk.js": "/Rone/static/js/2.de8d19a8.chunk.js",
+    "static/js/2.de8d19a8.chunk.js.map": "/Rone/static/js/2.de8d19a8.chunk.js.map",
+    "static/js/3.766c50f3.chunk.js": "/Rone/static/js/3.766c50f3.chunk.js",
+    "static/js/3.766c50f3.chunk.js.map": "/Rone/static/js/3.766c50f3.chunk.js.map",
+    "index.html": "/Rone/index.html",
+    "static/css/2.5996d632.chunk.css.map": "/Rone/static/css/2.5996d632.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/Rone/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.de8d19a8.chunk.js.LICENSE.txt": "/Rone/static/js/2.de8d19a8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d70b5ee.js",
+    "static/css/2.5996d632.chunk.css",
+    "static/js/2.de8d19a8.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.0e859025.chunk.js"
+  ]
+}
